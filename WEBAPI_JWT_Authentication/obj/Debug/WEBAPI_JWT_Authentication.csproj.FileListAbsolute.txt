@@ -1,0 +1,78 @@
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.csprojResolveAssemblyReference.cache
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.dll.config
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.pdb
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Antlr3.Runtime.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Newtonsoft.Json.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Net.Http.Formatting.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Helpers.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.WebHost.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Mvc.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Optimization.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Razor.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Deployment.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Razor.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WebGrease.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Logging.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Newtonsoft.Json.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Net.Http.Formatting.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Helpers.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.WebHost.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Mvc.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Optimization.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Razor.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Deployment.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Razor.xml
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Antlr3.Runtime.pdb
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.dll
+c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.pdb
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.dll.config
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.pdb
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Antlr3.Runtime.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Newtonsoft.Json.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Net.Http.Formatting.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Helpers.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.WebHost.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Mvc.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Optimization.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Razor.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Razor.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WebGrease.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Newtonsoft.Json.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Net.Http.Formatting.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Helpers.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.WebHost.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Mvc.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Optimization.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Razor.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Razor.xml
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Antlr3.Runtime.pdb
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.csprojResolveAssemblyReference.cache
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.pdb
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\JWTDataAccess.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\JWTDataAccess.pdb

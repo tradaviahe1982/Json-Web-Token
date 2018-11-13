@@ -1,0 +1,4 @@
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\JWTDataAccess\bin\Debug\JWTDataAccess.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\JWTDataAccess\bin\Debug\JWTDataAccess.pdb
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\JWTDataAccess\obj\Debug\JWTDataAccess.dll
+C:\Users\VIET ANH\Desktop\Webapi_JWT_Authentication-master\WEBAPI_JWT_Authentication\JWTDataAccess\obj\Debug\JWTDataAccess.pdb

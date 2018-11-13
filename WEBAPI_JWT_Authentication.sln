@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPI_JWT_Authentication", "WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication.csproj", "{A76B1588-A792-46C8-AB78-ABBD4FC9C8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApi", "TestWebApi\TestWebApi.csproj", "{FA5A57FB-BEAA-4873-912A-C6A2CBF8095C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTDataAccess", "JWTDataAccess\JWTDataAccess.csproj", "{A46DFFCD-39DA-471E-AD22-04B1B850DA78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76B1588-A792-46C8-AB78-ABBD4FC9C8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76B1588-A792-46C8-AB78-ABBD4FC9C8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76B1588-A792-46C8-AB78-ABBD4FC9C8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76B1588-A792-46C8-AB78-ABBD4FC9C8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5A57FB-BEAA-4873-912A-C6A2CBF8095C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5A57FB-BEAA-4873-912A-C6A2CBF8095C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5A57FB-BEAA-4873-912A-C6A2CBF8095C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5A57FB-BEAA-4873-912A-C6A2CBF8095C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46DFFCD-39DA-471E-AD22-04B1B850DA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46DFFCD-39DA-471E-AD22-04B1B850DA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46DFFCD-39DA-471E-AD22-04B1B850DA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46DFFCD-39DA-471E-AD22-04B1B850DA78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
